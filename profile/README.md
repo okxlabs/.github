@@ -12,4 +12,5 @@ The objects and purposes for which the Foundation is established include the fol
 
 
 OKX Labs Foundation MultiSig Address:
+
 Solana: 6WrUDCvHt2NNPmH8iaRszKn9RsfJe6S9kedTbGUGTnuQ
